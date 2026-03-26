@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk: The Basics          | <a href="https://github.com/ceciomartins/Splunk-The-Basics">Repository</a>|
+| Understand how SOC analysts use Splunk for log investigations          | <a href="https://github.com/ceciomartins/Splunk-The-Basics">Repository</a>|
 
 ## Certifications
 
@@ -20,3 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Pre Security (Legacy)          | <a href="https://tryhackme.com/certificate/THM-JFJLBBMI1G">Certification</a>|
 | Cyber Security 101 | <a href="https://tryhackme.com/certificate/THM-QVJQLXYCSR">Certification</a>|
 | Introduction to IoT         | <a href="https://www.credly.com/badges/26eefb5f-d7d6-463b-b33c-236839bda49e/linked_in">Certification</a>|
+
+## Projects
+
+- <a href="https://github.com/ceciomartins/Splunk-The-Basics">Splunk: The Basics</a>
