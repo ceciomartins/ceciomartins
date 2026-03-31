@@ -22,6 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Introduction to IoT         | <a href="https://www.credly.com/badges/26eefb5f-d7d6-463b-b33c-236839bda49e/linked_in">Certification</a>|
 | ISC2 (CC) Course Pre-assessment         | <a href="https://github.com/ceciomartins/ISC2_COURSE_PRE_ASSESSMENT">Certification</a>|
 | ISC2 (CC) Domain 1         | <a href="https://github.com/ceciomartins/ISC2-CC-Domain-1-Security-Principles">Certification</a>|
+| ISC2 (CC) Domain 2         | <a href="https://github.com/ceciomartins/Domain-2-Incident-Response-Business-Continuity-and-Disaster-Recovery-Concepts">Certification</a>|
 
 ## Projects
 
